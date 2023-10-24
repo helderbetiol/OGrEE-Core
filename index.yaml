@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-24T15:54:18.173195215Z"
+    description: A Helm chart for Kubernetes
+    digest: 66bd7fc91fea2f3c23d03af34bbb9c344dee2630e5e21fa04774f6dab213b166
+    name: api
+    type: application
+    urls:
+    - https://github.com/helderbetiol/OGrEE-Core/releases/download/api-1/api-1.tgz
+    version: "1"
+generated: "2023-10-24T15:54:18.173208415Z"
