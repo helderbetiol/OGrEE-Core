@@ -41,5 +41,5 @@ jobs:
                 sed -i "s/b\/wiki/b/" wiki_diff
             - name: Apply changes
               run: |
-                cd tmp_wiki
+                cd tmp_wiki/wiki
                 git apply --ignore-space-change ../wiki_diff 
